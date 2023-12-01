@@ -1,10 +1,4 @@
-# Int-repo
 
-
-init repo
-2 years ago
-import os
-import sys
 
 input_file = sys.argv[1]
 output_file = sys.argv[2]
